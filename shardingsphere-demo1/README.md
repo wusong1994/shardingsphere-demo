@@ -20,7 +20,7 @@
 例如 测试环境：
 mvn clean package -Ptest -Dmaven.test.skip=true
 
-##DEMO效果示例
+## DEMO效果示例
 插入例如：http://localhost:8080/user/add/{age}
 ![insert](./doc/images/insertExample.png)
 查询例如：http://localhost:8080/user/{id}
